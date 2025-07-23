@@ -100,11 +100,13 @@ Many students were interested in tools like **Namecheap, Canva Pro, and MongoDB 
 
 ## 📸 Hackathon Highlights
 
-![Hackathon 1](./images/hackathon-01.jpeg)
-![Hackathon 2](./images/hackathon-02.jpeg)
-![Hackathon 3](./images/hackathon-03.jpeg)
-![Hackathon 4](./images/hackathon-04.jpeg)
-![Hackathon 5](./images/hackathon-05.jpeg)
+
+![Hackathon 1](<WhatsApp Image 2025-07-23 at 07.49.03.jpeg>)
+![Hackathon 2](<WhatsApp Image 2025-07-23 at 07.49.04 (1).jpeg>)
+![Hackathon 3](<WhatsApp Image 2025-07-23 at 07.49.04 (2).jpeg>)
+![Hackathon 4](<WhatsApp Image 2025-07-23 at 07.49.04.jpeg>)
+![Hackathon 5](<WhatsApp Image 2025-07-23 at 07.49.05.jpeg>)
+
 
 
 
