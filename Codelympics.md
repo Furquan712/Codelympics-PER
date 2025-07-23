@@ -98,3 +98,13 @@ Many students were interested in tools like **Namecheap, Canva Pro, and MongoDB 
 * 🥈 **PeaceCode** — Designed a social awareness platform around the **Palestine-Israel conflict**, using open data and storytelling to spread peace narratives and humanitarian awareness.
 
 
+## 📸 Hackathon Highlights
+
+![Hackathon 1](./images/hackathon-01.jpeg)
+![Hackathon 2](./images/hackathon-02.jpeg)
+![Hackathon 3](./images/hackathon-03.jpeg)
+![Hackathon 4](./images/hackathon-04.jpeg)
+![Hackathon 5](./images/hackathon-05.jpeg)
+
+
+
