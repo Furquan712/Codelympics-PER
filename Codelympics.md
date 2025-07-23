@@ -3,7 +3,7 @@
 ### Codelympics Hackathon: Code, Compete, Conquer
 
 **Location**: Jamia Millia Islamia, Delhi
-**Date**: 2025-04-24
+**Date**: 2025-07-02 (due to postpone of the event)
 
 ---
 
